@@ -487,6 +487,10 @@ img {
 	width: 95%;
 }
 
+.tw-column {
+        width: 80%
+}
+
 .three-column {
 	width: 46%;
 	margin: 0 2%;
@@ -523,7 +527,7 @@ article .article-info a {
 }
 
 .small-sidebar { 
-   width: 25%;
+   width: 15%;
 }
 
 .big-sidebar {
@@ -824,4 +828,11 @@ footer .footer-bottom p, footer .footer-bottom p a {
 	.sf-menu li:hover ul, .sf-menu li.sfHover ul { top: 0; }
 
 
+}
+.box{
+    float:left;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
 }
